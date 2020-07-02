@@ -465,7 +465,7 @@ html {
     display: none;
   }
   .btn a{
-    width: 400px;
+    width: 200px;
     margin-bottom: 15px;
     padding: 14px 0;
     text-align: center;
@@ -553,7 +553,7 @@ html {
     color: rgb(49, 49, 49);
     box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 4px 0px;
   }
-    
+
   .header-main .btn a{
     width: 200px;
   }
