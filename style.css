@@ -523,4 +523,8 @@ html {
   .header-nav{
     padding:  15px;
   }
+
+  .flex-card {
+    margin-left: -50px;
+  }
 }
