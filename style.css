@@ -516,10 +516,11 @@ html {
 
 @media screen and (max-width:330px){
   .header-main{
-    padding: 320px 0;
+    padding-top: 300px;
     font-size: 10pt;
   }
-    .header-nav{
-        padding: 20px 10px;
-    }
+
+  .header-nav{
+    padding:  15px;
+  }
 }
