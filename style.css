@@ -516,7 +516,7 @@ html {
 
 @media screen and (max-width:330px){
   .header-main{
-    padding-top: 350px;
-      background-color: black;
+    padding-top: 350px 0;
+    background-color: black;
   }
 }
