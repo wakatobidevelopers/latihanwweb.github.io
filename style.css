@@ -530,7 +530,52 @@ html {
   
 }
 
-@media screen and (max-width:320px) and (min-width:330px){
+@media screen and (min-width:330px){
+  
+
+  .header-main p{
+    font-size: 12pt;
+  }
+
+  .header-main span{
+    font-weight: lighter;
+    color: #fff;
+  }
+
+  .header-main {
+    padding: 150px 20px 100px 20px;
+    text-align: center;
+  }
+
+  .header-nav{
+    padding:  15px;
+    background-color: #FFf;
+    color: rgb(49, 49, 49);
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 4px 0px;
+  }
+    
+  .header-main .btn a{
+    width: 200px;
+  }
+
+  .header-nav h1{
+    padding-left: 0;
+  }
+
+  .burger div {
+    background-color: rgb(49, 49, 49);
+  }
+
+  .flex-card {
+    margin-left: -50px;
+  }
+
+  .section-3 input{
+    width: 300px;
+  }
+}
+
+@media screen and (max-width:330px){
   
 
   .header-main p{
