@@ -519,4 +519,7 @@ html {
     padding: 320px 0;
     font-size: 10pt;
   }
+    .header-nav{
+        padding: 20px 10px;
+    }
 }
