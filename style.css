@@ -530,7 +530,7 @@ html {
   
 }
 
-@media screen and (min-width:330px){
+@media screen and (max-width:320px) and (min-width:330px){
   
 
   .header-main p{
