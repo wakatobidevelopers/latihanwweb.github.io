@@ -581,7 +581,7 @@ html {
   }
 }
 
-@media  screen and (min-width: 400px){
+@media  screen and (max-width: 400px){
   .burger div {
     background-color: #FFAE00;
   }
