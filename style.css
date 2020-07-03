@@ -430,7 +430,7 @@ html {
   
 }
 
-@media  screen and (max-width: 480px) {
+@media  screen and (max-width: 500px) {
   
   body{
     overflow: hidden;
@@ -581,7 +581,7 @@ html {
   }
 }
 
-@media  screen and (max-width: 390px){
+@media  screen and (max-width: 480px){
   .burger div {
     background-color: #FFAE00;
   }
