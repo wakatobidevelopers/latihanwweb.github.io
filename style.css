@@ -430,7 +430,7 @@ html {
   
 }
 
-@media only screen and (max-width: 480px) {
+@media  screen and (max-width: 480px) {
   
   body{
     overflow: hidden;
@@ -438,6 +438,8 @@ html {
   .header-nav{
     opacity: 1;
     padding: 20px 15px;
+    background-color: white;
+    color: rgb(49, 49, 49);
   }
 
 
@@ -575,47 +577,3 @@ html {
   }
 }
 
-@media screen and (max-width:370px){
-  
-
-  .header-main p{
-    font-size: 12pt;
-  }
-
-  .header-main span{
-    font-weight: lighter;
-    color: #fff;
-  }
-
-  .header-main {
-    padding: 150px 20px 100px 20px;
-    text-align: center;
-  }
-
-  .header-nav{
-    padding:  15px;
-    background-color: #FFf;
-    color: rgb(49, 49, 49);
-    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 4px 0px;
-  }
-
-  .header-main .btn a{
-    width: 200px;
-  }
-
-  .header-nav h1{
-    padding-left: 0;
-  }
-
-  .burger div {
-    background-color: rgb(49, 49, 49);
-  }
-
-  .flex-card {
-    margin-left: -50px;
-  }
-
-  .section-3 input{
-    width: 300px;
-  }
-}
