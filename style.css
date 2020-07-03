@@ -448,6 +448,10 @@ html {
     width: 250px;
   }
 
+  .burger div{
+    background-color: rgb(49, 49, 49);
+  }
+
   .header-main{
     padding: 120px 0 50px 45px;
     font-size: 1em;
@@ -574,6 +578,12 @@ html {
 
   .section-3 input{
     width: 300px;
+  }
+}
+
+@media  screen and (max-width: 390px){
+  .burger div {
+    background-color: #FFAE00;
   }
 }
 
