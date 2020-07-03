@@ -440,7 +440,7 @@ html {
     padding: 20px 15px;
     background-color: white;
     color: rgb(49, 49, 49);
-  }
+  }s
 
 
    .header-main img, .section-1 img{
@@ -581,9 +581,33 @@ html {
   }
 }
 
-@media  screen and (max-width: 480px){
+@media  screen and (max-width: 400px){
   .burger div {
     background-color: #FFAE00;
+  }
+  .header-main p{
+    font-size: 12pt;
+  }
+
+  .header-main span{
+    font-weight: lighter;
+    color: #fff;
+  }
+
+  .header-main {
+    padding: 150px 20px 100px 20px;
+    text-align: center;
+  }
+
+  .header-main img {
+    display: none;
+  }
+
+  .header-nav{
+    padding:  15px;
+    background-color: #FFf;
+    color: rgb(49, 49, 49);
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 4px 0px;
   }
 }
 
